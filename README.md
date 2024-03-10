@@ -1,2 +1,2 @@
-# ML Clustering
-ML clustering groups similar data points, revealing patterns without predefined labels. It organizes data into meaningful clusters, aiding exploration and understanding inherent structures for informed decision-making.
+
+Unsupervised learning is a machine learning approach where the algorithm is tasked with identifying patterns, relationships, or structures within unlabeled data, without explicit guidance in the form of predefined output labels.
